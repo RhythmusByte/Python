@@ -9,4 +9,5 @@ Each topic covered in this series is a direct reflection of my ongoing explorati
 ## Table of Contents
 
 - [History Of Python](Topics/historyofpython.md)
+- [First Program](Topics/firstProgram.md)
 - And more to come...
