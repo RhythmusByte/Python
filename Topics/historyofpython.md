@@ -6,7 +6,7 @@ So let's begin the series of learning python. The first topic is history of pyth
 - Started working on this language in 1989 in Netherlands.
 - Guido was working in [CWI](https://en.wikipedia.org/wiki/Centrum_Wiskunde_%26_Informatica) at that time in a distributed OS [Amoeba](https://en.wikipedia.org/wiki/Amoeba_%28operating_system%29).
 - He had on [ABC](https://en.wikipedia.org/wiki/ABC_%28programming_language%29) programming language before in early 1985.
-- It was inspired from ABC programming language also we can say successor of ABC programming language.
+- Python was inspired from ABC programming language also we can say successor of ABC programming language.
 - During Christmas holiday he started working on the idea as a hobby project. So he took features of ABC and fix the flaws which was in ABC language.
 
 > Take the best and fix the rest!
