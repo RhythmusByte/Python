@@ -21,4 +21,4 @@ So let's begin the series of learning python. The first topic is history of pyth
 - Version 3.0 in 2008
 > Learn more about "[History Of Python](https://en.wikipedia.org/wiki/History_of_Python?wprov=sfla1)".
 
-#### Next topic is "writing our first program"
+> Go to [next topic](Topics/firstProgram.md)
