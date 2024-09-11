@@ -8,4 +8,4 @@
 - Support for secure cookies (client side sessions)
 - 100% WSGI 1.0 compliant
 - Unicode based
-- extensively documented
+- Extensively documented
